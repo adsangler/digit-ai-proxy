@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/send-lead",
+      "destination": "https://hooks.zapier.com/hooks/catch/22756592/2ppwfus/"
+    }
+  ]
+}
