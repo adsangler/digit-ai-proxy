@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/api/send-lead",
+      "source": "/api/lead-submit",
       "destination": "https://hooks.zapier.com/hooks/catch/22756592/2ppwfus/"
     }
   ]
