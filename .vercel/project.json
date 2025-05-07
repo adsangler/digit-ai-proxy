@@ -1,0 +1,11 @@
+{
+    "projectId": "prj_JZjLCIXk0ZxgJWmAxE38BlSyn1b7",
+    "orgId": "team_JDlMRA5KksA1oGrj3VvGBGr8",
+    "settings": {
+      "framework": "nextjs",
+      "buildCommand": "npm run build",
+      "devCommand": "npm run dev",
+      "outputDirectory": "out",
+      "rootDirectory": null
+    }
+  }
